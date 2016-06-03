@@ -1,0 +1,24 @@
+{
+  "name": "prueba_arbelo",
+  "version": "0.1.0",
+  "description": "pruebillas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marianfu/tp_arq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianfu/tp_arq/issues"
+  },
+  "homepage": "https://github.com/marianfu/tp_arq#readme",
+  "dependencies": {
+    "q": "^1.4.1",
+	"socket.io": "*",
+	"express": "*"
+  }
+}
